@@ -1,0 +1,29 @@
+{
+  "owner": {
+    "userid": [
+      218162777771081730
+    ],
+    "command": [
+      "register",
+      "add",
+      "remove",
+      "unregister",
+      "details",
+      "reload",
+      "joinserver",
+      "quakeinfo",
+      "test",
+      "monitor",
+      "timefix",
+      "help"
+    ]
+  },
+  "everyone": {
+    "userid": [],
+    "command": [
+      "details",
+      "monitor",
+      "help"
+    ]
+  }
+}

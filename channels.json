@@ -1,0 +1,13 @@
+{
+  "569105223923138561": [
+    {
+      "id": 569105223923138563,
+      "eewAlert": true,
+      "eewPrediction": true,
+      "eewDecimation": false,
+      "quakeInfo": true,
+      "quakeInfoDetail": true,
+      "monitor": true
+    }
+  ]
+}
