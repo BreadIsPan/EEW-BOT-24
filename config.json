@@ -1,9 +1,0 @@
-{
-  "token": "NTY5MzYyMTAyNjU0MDc0ODkz.XLvh9w.caUijMPZsM-kAQ9lxhVFGh98jlI",
-  "kyoshinDelay": 1,
-  "quakeInfoDelay": 15,
-  "timeFixDelay": 86400,
-  "nptServer": "time.google.com",
-  "enablePermission": true,
-  "debug": true
-}
